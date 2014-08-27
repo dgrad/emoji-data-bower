@@ -1,0 +1,23 @@
+{
+  "name": "emoji-data-bower",
+  "version": "1.0.0",
+  "homepage": "https://github.com/dgrad/emoji-data-bower",
+  "authors": [
+    "Daniel Grad <dgrad@elance-odesk.com>"
+  ],
+  "description": "easy-to-parse data about emoji, along with spritesheet-style images for use on the web",
+  "main": "emoji.json",
+  "keywords": [
+    "emoji",
+    "emoticon",
+    "smilies"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
